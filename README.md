@@ -67,6 +67,3 @@ This project was built using **Python 3** and focuses on the following fundament
 
 ---
 
-## 👤 Author
-* Mohit Nagar
-* B.Tech 1st Year student at VIT Bhopal
